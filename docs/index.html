@@ -9,8 +9,15 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <style>
   .sidebar>h1 {
-      font-size: 1.8rem;
-      font-weight: 600;
+      margin: 0 auto 20px;
+      background: #f8f8f8;
+      padding: 20px 0;
+      font-size: 1.5rem;
+      font-weight: 300;
+      text-align: center;
+  }
+  .search {
+    margin-bottom: 0;
   }
   .markdown-section h1 {
     font-size: 3rem;
@@ -21,7 +28,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'The RxCookbook',
+      name: 'ReactiveX Cookbook',
       repo: '',
       auto2top: true,
       loadSidebar: true,
@@ -33,7 +40,7 @@
         },
         paths: 'auto',
         placeholder: {
-          '/': 'Search'
+          '/': 'Type to search'
         }
       }
     }
