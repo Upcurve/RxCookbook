@@ -1,4 +1,4 @@
 * Getting started
   * [Introduction](introduction.md)
-  * [What is Reactive Programming?](why-reactive.md)
+  * [The Why](why-reactive.md)
 * Basics of Rx

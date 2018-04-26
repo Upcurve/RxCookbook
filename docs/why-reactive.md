@@ -1,4 +1,7 @@
-# What is Reactive Programming?
+# The Why
+Now that we have had a brief about what ReactiveX is and how this guide is supposed to help you, it's time we get into the purpose of using ReactiveX in the first place.
+ 
+## What is Reactive Programming?
 If you've ever written any event based program then you're at least indirectly tasted a flavour of reactive programming.
 
 If you want a formal definition, here's what **Wikipedia** has to say:
