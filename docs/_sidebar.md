@@ -1,2 +1,2 @@
 * Getting started
-  * [Introduction](/)
+  * [Introduction](README.md)
