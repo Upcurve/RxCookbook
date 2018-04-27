@@ -2,7 +2,7 @@
 
 # The ReactiveX Cookbook
 
-> A magical documentation site generator.
+> A list of hand-curated recipes to help you get started with ReactiveX on any platform.
 
 * Focuses on the _why_
 * Has _real-world_ examples for using **ReactiveX**
