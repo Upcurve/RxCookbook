@@ -1,4 +1,4 @@
-![logo](_media/recipe_book.svg)
+![logo](_media/recipe-book.svg)
 
 # The ReactiveX Cookbook
 
